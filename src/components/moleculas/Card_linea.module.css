@@ -1,0 +1,47 @@
+/* * AGREGAR DEL FIGMA */
+
+.contenedor {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+
+.caja {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.info {
+    display: flex;
+    width: 233px;
+    padding: 0px 8px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 21px;
+}
+
+.info h2 {
+    width: 225px;
+    color: #1D4492;
+
+    /* H2 */
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info p {
+    width: 225px;
+    color: #1D4492;
+
+    /* normal */
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

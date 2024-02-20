@@ -1,0 +1,6 @@
+.cajita {
+    width: 360px;
+    height: 1px;
+    flex-shrink: 0;
+    background-color: #DFDDDD;
+}

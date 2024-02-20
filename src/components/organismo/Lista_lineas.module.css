@@ -1,0 +1,24 @@
+/* * AGREGAR CODIGO FIGMA */
+
+.contenedor {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo {
+    color: #1D4492;
+    text-align: center;
+
+    /* H1 */
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+ul {
+    /* Remove bullets */
+    list-style-type: none;
+}

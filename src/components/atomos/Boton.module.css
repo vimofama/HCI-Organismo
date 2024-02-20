@@ -1,0 +1,25 @@
+/* * AGREGAR CODIGO DEL FIGMA */
+a {
+    border-radius: 8px;
+    background-color: #EA1C2C;
+    display: flex;
+    width: 77.542px;
+    height: 25px;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    text-decoration: none;
+}
+
+a p {
+    color: #FFF;
+
+    /* H2 */
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
