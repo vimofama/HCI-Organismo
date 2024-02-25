@@ -1,0 +1,23 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    align-content: flex-start;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.filtros{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #FFFFFF;
+    gap: 21px;
+
+}
+
+.busqueda{
+    display: flex;
+    justify-content: right;
+}

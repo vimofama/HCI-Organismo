@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    gap: 21px;
+}
+.contenedor h2{
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 600
+}

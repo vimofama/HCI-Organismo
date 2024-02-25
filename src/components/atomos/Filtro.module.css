@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border:1px solid #1D4492;
+    padding: 0px 2px 0px 2px;
+    width: 89px;
+
+}
+.contenedor p {
+    color: #6A92E1;
+
+    /* PlaceHolder */
+    font-family: Roboto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
