@@ -6,10 +6,9 @@ const Filtro_organismo = () => {
     <>
       <div className={styles.contenedor}>
         <h2>FILTROS</h2>
-        <Filtrado_busqueda></Filtrado_busqueda>
-        
+        <Filtrado_busqueda />
       </div>
     </>
   );
-}
-export default Filtro_organismo
+};
+export default Filtro_organismo;

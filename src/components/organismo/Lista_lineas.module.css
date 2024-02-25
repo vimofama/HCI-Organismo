@@ -6,6 +6,14 @@
     align-items: center;
 }
 
+.caja {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
 .titulo {
     color: #1D4492;
     text-align: center;
